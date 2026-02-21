@@ -1,0 +1,39 @@
+/* General Styles */
+body {
+    background-color: #000000;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+/* Main Heading */
+h1 {
+    color: #ffffff;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+/* Subheadings */
+h2 {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/* Download Links */
+.download-link {
+    color: #42d6d6;
+    font-size: 16px;
+}
+
+/* Description Text */
+.description {
+    color: #a8a8a8;
+    font-size: 21px;
+}
+
+/* Footer */
+.footer {
+    color: #a8a8a8;
+    font-size: 21px;
+    text-align: right;
+}
